@@ -1,4 +1,4 @@
-# 🤖 AI Chatbot – 3 Tier DevOps Project
+#  AI Chatbot – 3 Tier DevOps Project
 
 This repository contains a **3-tier AI Chatbot application** built to understand **real-world DevOps workflows** using **Docker, Kubernetes, and AI integration (Gemini)**.
 
